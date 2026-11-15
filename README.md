@@ -2,6 +2,9 @@
 
 Small, tested starter packs for building on [ce-net](https://ce-net.com). Each one runs locally in minutes and has CI.
 
+Want to see what they add up to first? [ce-net/demos](https://github.com/ce-net/demos) lists ten working demos, each with
+its source and recorded proof ([as a page](https://ce-net.github.io/demos/)).
+
 The packs that talk to `https://ce-net.com/mcp` also run offline against a local fake. On 2026-11-14 most tools there
 answered HTTP 530 (a fault on ce-net's side), and each README says what that looks like.
 
